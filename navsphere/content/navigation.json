@@ -14,6 +14,14 @@
           "description": "Personal Website",
           "icon": "/assets/favicon_1759484741472.jpg",
           "enabled": true
+        },
+        {
+          "id": "site_1759484809314_v3c4eysbl",
+          "title": "Scholar",
+          "href": "https://scholar.google.com/citations?user=OllfhOIAAAAJ",
+          "description": "google scholar",
+          "icon": "/assets/favicon_1759484795174.png",
+          "enabled": true
         }
       ],
       "subCategories": []
