@@ -24,6 +24,14 @@
           "enabled": true
         },
         {
+          "id": "site_1759484856598_kj64syolp",
+          "title": "Email",
+          "href": "mailto:qiaozhezhang1@gmail.com",
+          "description": "Email",
+          "icon": "",
+          "enabled": true
+        },
+        {
           "id": "site_1759484889598_kgxqz5a8l",
           "title": "QiaozheZhang (Regulus) - GitHub",
           "href": "https://github.com/QiaozheZhang",
