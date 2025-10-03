@@ -46,24 +46,7 @@
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
-      "items": [
-        {
-          "id": "1735119857233",
-          "title": "截图美化工具",
-          "href": "https://shots.so/",
-          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
-          "icon": "/assets/images/logos/shots.webp",
-          "enabled": true
-        },
-        {
-          "id": "1741747111596",
-          "title": "PostSpark",
-          "href": "https://postspark.app/",
-          "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
-          "icon": "/assets/img_1741747241014.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [],
       "description": "",
       "enabled": false
@@ -80,24 +63,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "9_4",
-              "title": "Poe",
-              "href": "https://poe.com/",
-              "description": "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
-              "icon": "/assets/images/logos/poe.svg",
-              "enabled": true
-            },
-            {
-              "id": "1739871926277",
-              "title": "perplexity",
-              "href": "https://www.perplexity.ai/",
-              "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
-              "icon": "/assets/img_1739871936809.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
@@ -105,16 +71,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1736911347619",
-              "title": "gamma",
-              "href": "https://gamma.app/",
-              "description": "AI生成PPT工具",
-              "icon": "/assets/img_1736911490095.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
@@ -122,16 +79,7 @@
           "icon": "Edit",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1752554261491",
-              "title": "MCP Server 集合站",
-              "href": "https://smithery.ai/",
-              "description": "各种各样的 MCP Server",
-              "icon": "/assets/img_1752554273115.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ],
       "description": "",
@@ -151,16 +99,7 @@
           "icon": "BookOpen",
           "description": "站点图标",
           "enabled": true,
-          "items": [
-            {
-              "id": "1750831228317",
-              "title": "lucide",
-              "href": "https://lucide.dev/icons/house",
-              "description": "Beautiful &\nconsistent icons",
-              "icon": "/assets/img_1750831362985.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
@@ -168,24 +107,7 @@
           "icon": "Files",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1735265532154",
-              "title": "shadcn ",
-              "href": "https://ui.shadcn.com/",
-              "description": "Build your component library\nBeautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.",
-              "icon": "/assets/img_1735265752690.png",
-              "enabled": true
-            },
-            {
-              "id": "1751433573273",
-              "title": "shadcn ui  Theme",
-              "href": "https://tweakcn.com/",
-              "description": "Design Your Perfect \nshadcn/ui\n Theme\nCustomize colors, typography, and layouts with a real-time preview. No signup required.",
-              "icon": "/assets/img_1751433579053.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
@@ -193,16 +115,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1735612588184",
-              "title": "Vercel",
-              "href": "https://vercel.com/",
-              "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-              "icon": "/assets/images/logos/vercel.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "2040df1a-cbcd-40fa-a85c-151b5735fbd2",
@@ -211,22 +124,6 @@
           "description": "架构图，流程图",
           "enabled": true,
           "items": [
-            {
-              "id": "1736921962115",
-              "title": "draw.io",
-              "href": "https://www.drawio.com/",
-              "description": "可以绘制架构图、流程图，软件周期内的其它设计图。为团队绘制安全第一的图表。\n将您的存储带到我们的在线工具，或使用桌面应用程序在本地保存。",
-              "icon": "/assets/img_1736922080517.png",
-              "enabled": true
-            },
-            {
-              "id": "1736922183993",
-              "title": "ProccessOn",
-              "href": "https://www.processon.com/",
-              "description": "ProccessOn是一款优秀的国产在线协作画图软件，非常好用，也非常漂亮。专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制\n",
-              "icon": "/assets/img_1736922262462.png",
-              "enabled": true
-            },
             {
               "id": "1736922380901",
               "title": "Excalidraw",
@@ -268,16 +165,7 @@
           "icon": "Files",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1754295485849",
-              "title": "namecheap",
-              "href": "https://www.namecheap.com/",
-              "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 18 million domains under management, you know you’re in good hands.",
-              "icon": "/assets/favicon_1754295511938.ico",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "457c35b5-fcfb-4c72-8a9a-af21f9371e6b",
@@ -293,16 +181,7 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1759282146186",
-              "title": "Remotion",
-              "href": "https://www.remotion.dev/",
-              "description": "Make videos programmatically.Create real MP4 videos with React.\nParametrize content, render server-side and build applications.",
-              "icon": "/assets/favicon_1759282148802.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
@@ -328,24 +207,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1_11_5",
-              "title": "Producthunt",
-              "href": "https://www.producthunt.com/",
-              "description": "发现新鲜有趣的产品",
-              "icon": "/assets/images/logos/producthunt.png",
-              "enabled": true
-            },
-            {
-              "id": "1759031046821",
-              "title": "Hacker News",
-              "href": "https://news.ycombinator.com/",
-              "description": "Hacker News 是一家关于计算机黑客和创业公司的社会化新闻网站，由保罗·格雷厄姆的创业孵化器 Y Combinator 创建。与其它社会化新闻网站不同的是 Hacker News 未登录访客没有赞成或反对一条提交新闻的选项，不过还是可以被有足够 Karma 的用户投赞成或反对票。简而言之，Hacker News 允许提交任何可以被理解为“任何满足人们求知欲”的新闻",
-              "icon": "/assets/favicon_1759031156358.svg",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "2d33f756-959e-4171-9e0e-b616bcd274be",
@@ -435,14 +297,6 @@
               "description": "Quaily 是一个现代化的，基于 AI 的，新闻订阅服务。它支持多种推送渠道，包括邮件，telegram 和 discord。它与流行的编辑器（如 Obsidian 和 VScode）有很好的集成。",
               "icon": "/assets/favicon_1759043242645.png",
               "enabled": true
-            },
-            {
-              "id": "1759043324693",
-              "title": "Substack",
-              "href": "https://substack.com/",
-              "description": "The app for independent voices",
-              "icon": "/assets/favicon_1759043330135.svg",
-              "enabled": true
             }
           ]
         }
@@ -470,27 +324,11 @@
               "enabled": true
             },
             {
-              "id": "3_3",
-              "title": "Beautifier",
-              "href": "https://beautifier.io/",
-              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
-              "icon": "/assets/images/logos/beautifier.png",
-              "enabled": true
-            },
-            {
               "id": "3_5",
               "title": "TinyPNG",
               "href": "https://tinypng.com/",
               "description": "在线图片压缩工具",
               "icon": "/assets/images/logos/tinypng.png",
-              "enabled": true
-            },
-            {
-              "id": "1735256523960",
-              "title": "ScreenShots.pro",
-              "href": "https://screenshots.pro/",
-              "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
-              "icon": "/assets/img_1735258064656.png",
               "enabled": true
             }
           ],
@@ -511,16 +349,7 @@
           "href": "#界面设计",
           "icon": "Folder",
           "description": "",
-          "items": [
-            {
-              "id": "5_1",
-              "title": "Figma",
-              "href": "https://www.figma.com/",
-              "description": "在线UI设计工具",
-              "icon": "/assets/images/logos/figma.png",
-              "enabled": true
-            }
-          ],
+          "items": [],
           "enabled": true
         },
         {
@@ -671,40 +500,7 @@
           "href": "#LOGO设计",
           "icon": "",
           "description": "",
-          "items": [
-            {
-              "id": "8_2_1",
-              "title": "Iconsfeed",
-              "href": "http://www.iconsfeed.com/",
-              "description": "iOS icons gallery",
-              "icon": "/assets/images/logos/iconsfeed.png",
-              "enabled": true
-            },
-            {
-              "id": "8_2_2",
-              "title": "iOS Icon Gallery",
-              "href": "http://iosicongallery.com/",
-              "description": "Showcasing beautiful icon designs from the iOS App Store",
-              "icon": "/assets/images/logos/iosicongallery.png",
-              "enabled": true
-            },
-            {
-              "id": "8_2_3",
-              "title": "World Vector Logo",
-              "href": "https://worldvectorlogo.com/",
-              "description": "Brand logos free to download",
-              "icon": "/assets/images/logos/worldvectorlogo.png",
-              "enabled": true
-            },
-            {
-              "id": "8_2_4",
-              "title": "Instant Logo Search",
-              "href": "http://instantlogosearch.com/",
-              "description": "Search & download thousands of logos instantly",
-              "icon": "/assets/images/logos/InstantLogoSearch.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "8_3",
@@ -712,24 +508,7 @@
           "href": "#平面素材",
           "icon": "",
           "description": "",
-          "items": [
-            {
-              "id": "8_3_1",
-              "title": "Freepik",
-              "href": "https://www.freepik.com/",
-              "description": "免费矢量素材",
-              "icon": "/assets/images/logos/freepik.png",
-              "enabled": true
-            },
-            {
-              "id": "8_3_2",
-              "title": "Unsplash",
-              "href": "https://unsplash.com/",
-              "description": "免费高清图片",
-              "icon": "/assets/images/logos/unsplash.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     }
