@@ -85,6 +85,15 @@
       "subCategories": []
     },
     {
+      "id": "1759487996026",
+      "title": "Tools",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "8",
       "title": "Icons",
       "icon": "linecons-thumbs-up",
@@ -117,15 +126,6 @@
       "subCategories": [],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1759487996026",
-      "title": "Tools",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
