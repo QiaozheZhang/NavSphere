@@ -90,7 +90,16 @@
       "icon": "Folder",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1759487842136_x20d4rn5r",
+          "title": "ccf ddl",
+          "href": "https://ccfddl.github.io/",
+          "description": "Conference Deadline",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ccfddl.github.io",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
