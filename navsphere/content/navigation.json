@@ -22,6 +22,14 @@
           "description": "google scholar",
           "icon": "/assets/favicon_1759484795174.png",
           "enabled": true
+        },
+        {
+          "id": "site_1759484856598_kj64syolp",
+          "title": "Email",
+          "href": "mailto:qiaozhezhang1@gmail.com",
+          "description": "Email",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=",
+          "enabled": true
         }
       ],
       "subCategories": []
