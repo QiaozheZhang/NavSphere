@@ -90,7 +90,16 @@
       "icon": "Folder",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1759488046016_qd3vqt579",
+          "title": "Weights & Biases",
+          "href": "https://wandb.ai/",
+          "description": "Weights & Biases, developer tools for machine learning",
+          "icon": "/assets/favicon_1759488040154.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
