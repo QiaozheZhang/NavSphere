@@ -85,6 +85,15 @@
       "enabled": true
     },
     {
+      "id": "1759487996026",
+      "title": "Tools",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1759487777525",
       "title": "Conference DDL",
       "icon": "Folder",
@@ -116,15 +125,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1759487996026",
-      "title": "Tools",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
