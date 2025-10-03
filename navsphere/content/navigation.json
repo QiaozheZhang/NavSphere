@@ -114,6 +114,14 @@
           "description": "Anywhere on Earth (AoE)的时间、时区、时差、日出日落时间等信息。",
           "icon": "/assets/favicon_1759488088576.png",
           "enabled": true
+        },
+        {
+          "id": "site_1759488199167_m1ku0ye0h",
+          "title": "Papercopilot",
+          "href": "https://papercopilot.com/",
+          "description": "papercopilot",
+          "icon": "/assets/favicon_1759488190277.png",
+          "enabled": true
         }
       ],
       "subCategories": []
