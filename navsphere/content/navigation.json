@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1759484448362",
+      "title": "Qiaozhe Zhang",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -860,15 +869,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1759484448362",
-      "title": "Qiaozhe Zhang",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "8",
