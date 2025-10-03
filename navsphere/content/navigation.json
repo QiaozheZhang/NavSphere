@@ -44,7 +44,7 @@
     },
     {
       "id": "8",
-      "title": "素材资源",
+      "title": "Icons",
       "icon": "linecons-thumbs-up",
       "items": [],
       "subCategories": [
@@ -81,7 +81,9 @@
             }
           ]
         }
-      ]
+      ],
+      "description": "",
+      "enabled": true
     }
   ]
 }
