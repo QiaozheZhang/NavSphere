@@ -98,6 +98,14 @@
           "description": "Conference Deadline",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=ccfddl.github.io",
           "enabled": true
+        },
+        {
+          "id": "site_1759487893738_fngwaf083",
+          "title": "CCF Conference Deadlines",
+          "href": "https://ccfddl.top/",
+          "description": "Tabular Conference Deadline",
+          "icon": "/assets/favicon_1759487867889.jpg",
+          "enabled": true
         }
       ],
       "subCategories": []
