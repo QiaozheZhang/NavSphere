@@ -106,6 +106,14 @@
           "description": "Get RSS and Atom feeds from your favourite websites and blogs sent to your email account in real time, for free.",
           "icon": "/assets/favicon_1759488058107.png",
           "enabled": true
+        },
+        {
+          "id": "site_1759488093934_f28flmhwe",
+          "title": "Anywhere on Earth - Time.is",
+          "href": "https://time.is/Anywhere_on_Earth",
+          "description": "Anywhere on Earth (AoE)的时间、时区、时差、日出日落时间等信息。",
+          "icon": "/assets/favicon_1759488088576.png",
+          "enabled": true
         }
       ],
       "subCategories": []
