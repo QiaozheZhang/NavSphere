@@ -30,6 +30,14 @@
           "description": "Email",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=",
           "enabled": true
+        },
+        {
+          "id": "site_1759484889598_kgxqz5a8l",
+          "title": "QiaozheZhang (Regulus) · GitHub",
+          "href": "https://github.com/QiaozheZhang",
+          "description": "Github",
+          "icon": "/assets/favicon_1759484878146.png",
+          "enabled": true
         }
       ],
       "subCategories": []
