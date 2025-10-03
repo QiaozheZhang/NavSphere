@@ -22,6 +22,14 @@
           "description": "google scholar",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1759484889598_kgxqz5a8l",
+          "title": "QiaozheZhang (Regulus) - GitHub",
+          "href": "https://github.com/QiaozheZhang",
+          "description": "Github",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -45,14 +53,6 @@
           "href": "https://postspark.app/",
           "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
           "icon": "/assets/img_1741747241014.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1759484889598_kgxqz5a8l",
-          "title": "QiaozheZhang (Regulus) - GitHub",
-          "href": "https://github.com/QiaozheZhang",
-          "description": "Github",
-          "icon": "",
           "enabled": true
         }
       ],
