@@ -51,6 +51,40 @@
       "subCategories": []
     },
     {
+      "id": "1759487777525",
+      "title": "Conference DDL",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1759487842136_x20d4rn5r",
+          "title": "ccf ddl",
+          "href": "https://ccfddl.github.io/",
+          "description": "Conference Deadline",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ccfddl.github.io",
+          "enabled": true
+        },
+        {
+          "id": "site_1759487893738_fngwaf083",
+          "title": "CCF Conference Deadlines",
+          "href": "https://ccfddl.top/",
+          "description": "Tabular Conference Deadline",
+          "icon": "/assets/favicon_1759487867889.jpg",
+          "enabled": true
+        },
+        {
+          "id": "site_1759487958904_hqb3886bd",
+          "title": "iCal Subscription",
+          "href": "https://github.com/ccfddl/ccf-deadlines/tree/main/extensions/ical",
+          "description": "⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~ - ccf-deadlines/extensions/ical at main · ccfddl/ccf-deadlines",
+          "icon": "/assets/favicon_1759487932183.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "8",
       "title": "Icons",
       "icon": "linecons-thumbs-up",
@@ -91,40 +125,6 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1759487777525",
-      "title": "Conference DDL",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1759487842136_x20d4rn5r",
-          "title": "ccf ddl",
-          "href": "https://ccfddl.github.io/",
-          "description": "Conference Deadline",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ccfddl.github.io",
-          "enabled": true
-        },
-        {
-          "id": "site_1759487893738_fngwaf083",
-          "title": "CCF Conference Deadlines",
-          "href": "https://ccfddl.top/",
-          "description": "Tabular Conference Deadline",
-          "icon": "/assets/favicon_1759487867889.jpg",
-          "enabled": true
-        },
-        {
-          "id": "site_1759487958904_hqb3886bd",
-          "title": "iCal Subscription",
-          "href": "https://github.com/ccfddl/ccf-deadlines/tree/main/extensions/ical",
-          "description": "⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~ - ccf-deadlines/extensions/ical at main · ccfddl/ccf-deadlines",
-          "icon": "/assets/favicon_1759487932183.png",
-          "enabled": true
-        }
-      ],
       "subCategories": []
     }
   ]
