@@ -6,7 +6,16 @@
       "icon": "Folder",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1759484767794_zzqj8rtg3",
+          "title": "Qiaozhe Zhang – 张乔喆",
+          "href": "https://qiaozhezhang.bestlab.top/",
+          "description": "Personal Website",
+          "icon": "/assets/favicon_1759484741472.jpg",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
