@@ -106,6 +106,14 @@
           "description": "Tabular Conference Deadline",
           "icon": "/assets/favicon_1759487867889.jpg",
           "enabled": true
+        },
+        {
+          "id": "site_1759487958904_hqb3886bd",
+          "title": "iCal Subscription",
+          "href": "https://github.com/ccfddl/ccf-deadlines/tree/main/extensions/ical",
+          "description": "⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~ - ccf-deadlines/extensions/ical at main · ccfddl/ccf-deadlines",
+          "icon": "/assets/favicon_1759487932183.png",
+          "enabled": true
         }
       ],
       "subCategories": []
