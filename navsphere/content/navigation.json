@@ -20,7 +20,7 @@
           "title": "Scholar",
           "href": "https://scholar.google.com/citations?user=OllfhOIAAAAJ",
           "description": "google scholar",
-          "icon": "/assets/favicon_1759484795174.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -28,7 +28,7 @@
           "title": "Email",
           "href": "mailto:qiaozhezhang1@gmail.com",
           "description": "Email",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=",
+          "icon": "",
           "enabled": true
         },
         {
@@ -36,7 +36,7 @@
           "title": "QiaozheZhang (Regulus) · GitHub",
           "href": "https://github.com/QiaozheZhang",
           "description": "Github",
-          "icon": "/assets/favicon_1759484878146.png",
+          "icon": "",
           "enabled": true
         }
       ],
