@@ -117,6 +117,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1759487996026",
+      "title": "Tools",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
