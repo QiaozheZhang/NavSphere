@@ -98,6 +98,14 @@
           "description": "Weights & Biases, developer tools for machine learning",
           "icon": "/assets/favicon_1759488040154.png",
           "enabled": true
+        },
+        {
+          "id": "site_1759488077151_tgpg3qhtf",
+          "title": "RSS Sub.",
+          "href": "https://blogtrottr.com/",
+          "description": "Get RSS and Atom feeds from your favourite websites and blogs sent to your email account in real time, for free.",
+          "icon": "/assets/favicon_1759488058107.png",
+          "enabled": true
         }
       ],
       "subCategories": []
