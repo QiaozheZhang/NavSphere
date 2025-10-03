@@ -46,7 +46,16 @@
       "id": "8",
       "title": "Icons",
       "icon": "linecons-thumbs-up",
-      "items": [],
+      "items": [
+        {
+          "id": "8_1_1",
+          "title": "Iconfinder",
+          "href": "https://www.iconfinder.com",
+          "description": "2,100,000+ free and premium vector icons.",
+          "icon": "/assets/images/logos/Iconfinder.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "8_1",
@@ -55,14 +64,6 @@
           "icon": "",
           "description": "",
           "items": [
-            {
-              "id": "8_1_1",
-              "title": "Iconfinder",
-              "href": "https://www.iconfinder.com",
-              "description": "2,100,000+ free and premium vector icons.",
-              "icon": "/assets/images/logos/Iconfinder.png",
-              "enabled": true
-            },
             {
               "id": "8_1_5",
               "title": "FindIcons",
