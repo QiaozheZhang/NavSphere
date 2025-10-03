@@ -862,6 +862,15 @@
       "enabled": true
     },
     {
+      "id": "1759484448362",
+      "title": "Qiaozhe Zhang",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
@@ -1039,15 +1048,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1759484448362",
-      "title": "Qiaozhe Zhang",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
