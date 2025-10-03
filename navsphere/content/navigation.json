@@ -22,6 +22,14 @@
           "description": "google scholar",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1759484856598_kj64syolp",
+          "title": "Email",
+          "href": "mailto:qiaozhezhang1@gmail.com",
+          "description": "Email",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
