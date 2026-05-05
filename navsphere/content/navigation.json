@@ -46,6 +46,14 @@
           "description": "Twitter",
           "icon": "/assets/favicon_1759487587526.png",
           "enabled": true
+        },
+        {
+          "id": "site_1777982341849_x2rqpc592",
+          "title": "Linkedin",
+          "href": "https://linkedin.com/in/qiaozhe-zhang-778436388",
+          "description": "linkedin",
+          "icon": "/assets/favicon_1777982323931.png",
+          "enabled": true
         }
       ],
       "subCategories": []
