@@ -149,10 +149,10 @@
         },
         {
           "id": "8_1_5",
-          "title": "FindIcons",
-          "href": "https://findicons.com/",
-          "description": "Search through 300,000 free icons",
-          "icon": "/assets/images/logos/FindIcons.png",
+          "title": "Download 1,502,200 free icons (SVG, PNG)",
+          "href": "http://icons8.com/icons/",
+          "description": "Get free icons for graphic design, UI, social media, and mobile. Search for static and animated icons with consistent quality. PNG, SVG, GIF, AE formats.",
+          "icon": "https://img.icons8.com/color/96/icons8-new-logo.png",
           "enabled": true
         },
         {
